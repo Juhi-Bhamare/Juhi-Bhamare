@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Juhi Bhamare! 👋
 
-<!--
-**Juhi-Bhamare/Juhi-Bhamare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Python | Artificial Intelligence | Machine Learning | Generative AI
 
-Here are some ideas to get you started:
+I'm a recent engineering graduate interested in data analytics, machine learning, and building practical technology solutions. I enjoy working with data, developing applications, and turning ideas into useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently improving my skills in data analytics and machine learning
+- 🌱 Learning more about Python, SQL, data visualization, and AI
+- 💻 Interested in data analytics, computer vision, and software development
+- 📍 Based in India
+
+## 🛠️ Skills & Technologies
+
+**Programming:** Python, SQL, HTML, CSS
+
+**Data Analysis:** Pandas, NumPy, data visualization
+
+**Machine Learning & Computer Vision:** Scikit-learn, deep learning, computer vision
+
+**Web & App Development:** Streamlit, Flutter
+
+**Geospatial Technology:** Google Earth Engine, Sentinel-2, NDVI, Folium
+
+**Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+
+### 🌱 Satellite-Based Crop Health Monitoring
+An interactive dashboard that uses Sentinel-2 satellite imagery and NDVI to visualize regional vegetation conditions and monthly trends.
+
+- Technologies: Python, Streamlit, Google Earth Engine, Folium, Pandas
+- [Live Demo](https://satellite-crop-monitor.streamlit.app/)
+- [Source Code](https://github.com/Juhi-Bhamare/satellite-crop-monitor)
+
+### 🚗 Driver Drowsiness Detection
+A computer vision and deep learning project focused on detecting driver drowsiness.
+
+- Technologies: Python, Computer Vision, Deep Learning
+- [View Repository](https://github.com/Juhi-Bhamare/driver-drowsiness-detection)
+
+### 📱 Driver Drowsiness App
+A Flutter mobile application designed to support driver drowsiness detection and emergency SOS alerts.
+
+- Technologies: Flutter, Dart
+- [View Repository](https://github.com/Juhi-Bhamare/driver-drowsiness-app)
+
+## 🎯 Current Goals
+
+- Strengthen my SQL and Python data analysis skills
+- Build practical projects using real-world datasets
+- Improve my machine learning and data visualization skills
+- Contribute to collaborative software projects
+
+## 🤝 Connect With Me
+
+- GitHub: [Juhi-Bhamare](https://github.com/Juhi-Bhamare)
+
+Thanks for visiting my profile!

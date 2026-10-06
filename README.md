@@ -17,11 +17,11 @@ I'm a recent engineering graduate interested in data analytics, machine learning
 
 **Machine Learning & Computer Vision:** Scikit-learn, deep learning, computer vision
 
-**Web & App Development:** Streamlit, Flutter
+**Web & App Development:** Streamlit
 
-**Geospatial Technology:** Google Earth Engine, Sentinel-2, NDVI, Folium
+**Geospatial Technology:** Google Earth Engine, Sentinel-2, NDVI
 
-**Tools:** Git, GitHub, VS Code
+**Tools:** Git, GitHub, VS Code, Google Colab
 
 ## 🚀 Featured Projects
 
